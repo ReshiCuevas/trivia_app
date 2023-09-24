@@ -144,7 +144,7 @@ class _TriviaScreenState extends State<TriviaScreen> {
                     controller: answerController,
                     decoration: InputDecoration(labelText: 'Your Answer'),
                     onChanged: (value) {
-                      // You can add logic to handle user's input here if needed
+                
                     },
                   ),
                   SizedBox(height: 20),
